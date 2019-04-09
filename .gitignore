@@ -1,4 +1,7 @@
 dist/main.js
+dist/contact.bundle.js
+dist/about.bundle.js
+
 
 # Logs
 logs
